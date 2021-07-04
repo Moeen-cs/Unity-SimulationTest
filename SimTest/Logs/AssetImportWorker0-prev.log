@@ -1,0 +1,183 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18362.1256; Version 1903; 64bit' Language: 'en' Physical Memory: 8007 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Development/Upwork/SimulationTest/Project/SimTest
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49812
+Successfully changed project path to: D:/Development/Upwork/SimulationTest/Project/SimTest
+D:/Development/Upwork/SimulationTest/Project/SimTest
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 61.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Development/Upwork/SimulationTest/Project/SimTest/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     4003 MB
+    Driver:   26.20.100.7757
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56516
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002043 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 57.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.184 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004107 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 64.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.720 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2092 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2525.
+Total: 4.516400 ms (FindLiveObjects: 0.358600 ms CreateObjectMapping: 0.222100 ms MarkObjects: 3.698200 ms  DeleteObjects: 0.235300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/City Pack/Demo/SL001_0.controller
+  artifactKey: Guid(b3c9738ff62bacc42abe32671d6a0215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Demo/SL001_0.controller using Guid(b3c9738ff62bacc42abe32671d6a0215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60150bbf77feaa460013bd17c1da13b6') in 0.101551 seconds 
+  Import took 0.123747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.367501 seconds.
+  path: Assets/City Pack/Demo/BA001.anim
+  artifactKey: Guid(179677bfe46591f4c84a247c8c4c3ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Demo/BA001.anim using Guid(179677bfe46591f4c84a247c8c4c3ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a876ea1a088419ef0368077ee9d5db9') in 0.004345 seconds 
+  Import took 0.044469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.720907 seconds.
+  path: Assets/City Pack/Demo/BD001_0.controller
+  artifactKey: Guid(e43c2d8461eb799478d411e88e8b989b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Demo/BD001_0.controller using Guid(e43c2d8461eb799478d411e88e8b989b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a60a2ac2ca497bd62aac36b2f542ad') in 0.007007 seconds 
+  Import took 0.039332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.463192 seconds.
+  path: Assets/City Pack/Demo/LS001.anim
+  artifactKey: Guid(86d176cfd046cc0448535c485c3b8fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Demo/LS001.anim using Guid(86d176cfd046cc0448535c485c3b8fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcfaa4ec855cd2e7c96b9f151f0fedff') in 0.002647 seconds 
+  Import took 0.042506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.951201 seconds.
+  path: Assets/City Pack/Demo/SL001_10.controller
+  artifactKey: Guid(ae21fcd7042ebf44e9272b44f47c1589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Demo/SL001_10.controller using Guid(ae21fcd7042ebf44e9272b44f47c1589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b91b582b2b2f168c33aa97148934e01') in 0.006420 seconds 
+  Import took 0.040646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.558353 seconds.
+  path: Assets/City Pack/Demo/L001.anim
+  artifactKey: Guid(9867c4139b2c5b64799bca9cdad60cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Demo/L001.anim using Guid(9867c4139b2c5b64799bca9cdad60cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54f8839a6850718527e3cd893687415') in 0.002091 seconds 
+  Import took 0.034085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.318709 seconds.
+  path: Assets/City Pack/Demo/G001.anim
+  artifactKey: Guid(5f6a8126499bb1c4490bd4e49928d56d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Demo/G001.anim using Guid(5f6a8126499bb1c4490bd4e49928d56d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31654929a49f14be547f6959581db70e') in 0.002163 seconds 
+  Import took 0.007484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.478384 seconds.
+  path: Assets/City Pack/Demo/CS03.png
+  artifactKey: Guid(b6f4c46665467e04bb78a03b87bb1cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Demo/CS03.png using Guid(b6f4c46665467e04bb78a03b87bb1cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd49f72ac4d3251f651da6f3cede7ca76') in 0.132326 seconds 
+  Import took 0.154621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.048933 seconds.
+  path: Assets/City Pack/Demo/cityvers01_anim02.gif
+  artifactKey: Guid(e60f138c2a1210342bc010cae9907ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Demo/cityvers01_anim02.gif using Guid(e60f138c2a1210342bc010cae9907ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '539e4c371754034b3f7cb60151c66e8b') in 0.020077 seconds 
+  Import took 0.040731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.481174 seconds.
+  path: Assets/City Pack/Sprites/Animations/BD001.png
+  artifactKey: Guid(b79f22cd227d76c4b9c9986dcf0514f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Sprites/Animations/BD001.png using Guid(b79f22cd227d76c4b9c9986dcf0514f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38530514a683ff4874e89bdb565bdbd8') in 0.151525 seconds 
+  Import took 0.156634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.093150 seconds.
+  path: Assets/City Pack/Sprites/Animations/BL001.png
+  artifactKey: Guid(9c7711ccb0a37d744b6f5071d082d28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Sprites/Animations/BL001.png using Guid(9c7711ccb0a37d744b6f5071d082d28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a180a0e72cff234a0d2bc2b9a47da504') in 0.113850 seconds 
+  Import took 0.145625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.057998 seconds.
+  path: Assets/City Pack/Sprites/Animations/SL001.png
+  artifactKey: Guid(f5bd07fe5e2679644ace619c8df24f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Sprites/Animations/SL001.png using Guid(f5bd07fe5e2679644ace619c8df24f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60b698f1372fc358b6f755eae2c17e1f') in 0.104120 seconds 
+  Import took 0.110080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.961975 seconds.
+  path: Assets/City Pack/Sprites/CP_V1.0.4_nyknck/CP_V1.0.4.png
+  artifactKey: Guid(2529f58c0f0f4784d925363eac539680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/City Pack/Sprites/CP_V1.0.4_nyknck/CP_V1.0.4.png using Guid(2529f58c0f0f4784d925363eac539680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d46282abd140a8db85a7b0d9b4c80be') in 0.528258 seconds 
+  Import took 0.565340 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
